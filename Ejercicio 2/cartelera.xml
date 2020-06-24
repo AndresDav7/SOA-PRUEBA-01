@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cine id="0132729" name="Cine Sur" ciudad="Quito" direccion="La Villaflora">
+<cartelera mes="Diciembre"> 
+
+<pelicula id="000001">
+	<codigo>PD0124356</codigo>
+
+	<titulo>The Art of Getting By</titulo>
+
+	<año>2011</año>
+
+	<duracion>
+		<horas>1</horas>
+		<minutos>24</minutos>
+		<segundos>30</segundos>
+	</duracion>
+
+	<nacionalidad>Estadounidense</nacionalidad>
+
+	<genero>Comedia romántica, drama y cine adolescente</genero>
+
+	<clasificacion> +12 Años </clasificacion>
+
+	<director>
+		<nombre>Gavin</nombre>
+		<apellido>Wiesen</apellido>
+		<fechaNacimiento>
+			<año>1976</año>
+			<mes>Noviembre</mes>
+			<dia>13</dia>
+		</fechaNacimiento>
+	</director>
+
+	<reparto>
+		<actoresPrincipales>
+			<Principal id="0001">
+				<nombreOriginal>Freddie Highmore </nombreOriginal>
+				<nombreEnPelicula>George Zinavoy</nombreEnPelicula>
+			</Principal>
+			<Principal id="0002">
+				<nombreOriginal>Emma Roberts </nombreOriginal>
+				<nombreEnPelicula>Sally Howe</nombreEnPelicula>
+			</Principal>
+		</actoresPrincipales>
+
+		<acoresSecundarios>
+			<Secundarios id="0001">
+				<nombreOriginal>Blair Underwood </nombreOriginal>
+				<nombreEnPelicula>Principal Martinson</nombreEnPelicula>
+			</Secundarios>
+			<Secundarios id="0002">
+				<nombreOriginal>Ann Dowd </nombreOriginal>
+				<nombreEnPelicula>Mrs. Grimes </nombreEnPelicula>
+			</Secundarios>
+		</acoresSecundarios>
+
+
+		<dobles>
+			<dobleActor id="001">
+				<nombreOriginal>Tony McFarr</nombreOriginal>
+				<Sustituye>Freddie Highmore</Sustituye>
+			</dobleActor>
+		</dobles>
+	</reparto>
+
+	<sinopsis>
+		George, un adolescente inteligente pero solitario y escéptico, cambia de actitud cuando entabla amistad con Sally, una joven que le gustaba desde hacía tiempo.
+	</sinopsis>
+
+</pelicula>
+
+</cartelera>
+</Cine>
